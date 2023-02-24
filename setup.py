@@ -1,1 +1,1 @@
-print "My setup file in Github"
+print ("My setup file in Github")
