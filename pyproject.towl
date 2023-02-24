@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "myproject"
+version = "0.1.0"
+description = "My awesome project"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.20.0"
+pandas = "^1.2.0"
